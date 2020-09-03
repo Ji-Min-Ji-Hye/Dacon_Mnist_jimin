@@ -4,7 +4,7 @@
   - layer 한 층 쌓기  
   
  - __2주차__: 이미지 전처리를 통해 정확도 높이기(8.31~09.06)  
-     - __원본__  
+    - __원본__  
 > <img src="https://user-images.githubusercontent.com/57060127/92070331-a71a4880-ede6-11ea-86b6-27df9fb1780e.JPG" width=30%>  
 <br>
 
