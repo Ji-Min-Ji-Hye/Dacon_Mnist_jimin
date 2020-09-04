@@ -9,6 +9,7 @@
 ><img src="https://user-images.githubusercontent.com/57060127/92191308-65e56f80-ee9e-11ea-9e72-c337a8823b58.JPG" width=30%>  
 <br>
 
+  __특징점 강조__ 
 >   - __th=125__  =>정확도: 약 28%  
 ><img src="https://user-images.githubusercontent.com/57060127/92191310-667e0600-ee9e-11ea-81b0-c1441ed28292.JPG" width=30%>  
 <br>
