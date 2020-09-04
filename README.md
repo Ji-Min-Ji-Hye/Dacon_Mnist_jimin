@@ -5,7 +5,7 @@
   <br>
   
   
- - __2주차__: [이미지 전처리](https://github.com/Jimin980921/Dacon_Mnist/blob/master/dacon_Transforming%20Data.ipynb)를 통해 정확도 높이기(8.31~09.06)  
+ - __2주차__: [이미지 전처리](https://github.com/Jimin980921/Dacon_Mnist/blob/master/dacon_Transforming_data.ipynb)를 통해 정확도 높이기(8.31~09.06)  
 >   - __원본__  =>정확도: 약 75%  
 ><img src="https://user-images.githubusercontent.com/57060127/92191308-65e56f80-ee9e-11ea-9e72-c337a8823b58.JPG" width=30%>  
 <br>
