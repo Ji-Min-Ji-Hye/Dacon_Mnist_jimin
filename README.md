@@ -13,7 +13,7 @@
   __특징점 강조__  
 >   - __th=125__  
 baseline코드=> 정확도: 약 24%   
-layer추가코드=> 정확도:  
+layer추가코드=> 정확도:  약 31%  
 ><img src="https://user-images.githubusercontent.com/57060127/92191310-667e0600-ee9e-11ea-81b0-c1441ed28292.JPG" width=30%>  
 <br>
 
