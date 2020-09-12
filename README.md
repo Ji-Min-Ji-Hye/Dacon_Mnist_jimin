@@ -1,7 +1,7 @@
 # Dacon_Mnist: 글자에 숨겨진 숫자찾기 (08.23~)  
 - __1주차__: [baseline코드](https://github.com/Jimin980921/Dacon_Mnist/blob/master/dacon_baseline.ipynb)기반 정확도 높이기(8.23~8.30) 
-  > epoch수 늘리기=> 정확도: 약 75%  
-    layer 한 층 쌓기=> 정확도: 약 60%
+ > epoch수 늘리기=> 정확도: 약 75%  
+   layer 한 층 쌓기=> 정확도: 약 60%
   <br>
   
   
