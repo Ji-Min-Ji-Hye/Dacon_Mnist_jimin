@@ -40,5 +40,5 @@ layer추가코드=> 정확도: 약 70%
 > 200이상 다양한 임계값으로 데이터 증가+[ver4.](https://github.com/Jimin980921/Dacon_Mnist/blob/master/ver4_merge%26train.ipynb) => 이미지증가 데이터먼저 학습 후 train데이터 학습: 76%  
   layer가 깊다고 정확도가 높은 것은 아님.  
 
-> 200이상 다양한 임계값으로 데이터 증가+[ver3.](https://github.com/Jimin980921/Dacon_Mnist/blob/master/ver3_merge%26train.ipynb)+ test데이터 특징점 강조 => 이미지증가 데이터먼저 학습 후 train데이터 학습: 
+> 200이상 다양한 임계값으로 데이터 증가+[ver3.](https://github.com/Jimin980921/Dacon_Mnist/blob/master/ver3_merge%26train.ipynb)+ test데이터 특징점 강조 => 이미지증가 데이터먼저 학습 후 train데이터 학습: 77%
 
